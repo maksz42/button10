@@ -1,0 +1,90 @@
+ERC report (5/4/2023 9:10:23 PM, Encoding UTF8)
+
+***** Sheet /
+[simulation_model_issue]: Error reading simulation model from symbol 'SW4':
+Failed to read simulation model from fields.
+
+    ; Severity: error
+    @(97.7900 mm, 73.6600 mm): Symbol SW4 [SW_Push]
+[simulation_model_issue]: Error reading simulation model from symbol 'SW2':
+Failed to read simulation model from fields.
+
+    ; Severity: error
+    @(97.7900 mm, 50.8000 mm): Symbol SW2 [SW_Push]
+[simulation_model_issue]: Error reading simulation model from symbol 'SW3':
+Failed to read simulation model from fields.
+
+    ; Severity: error
+    @(97.7900 mm, 62.2300 mm): Symbol SW3 [SW_Push]
+[simulation_model_issue]: Error reading simulation model from symbol '#FLG01':
+Failed to read simulation model from fields.
+
+    ; Severity: error
+    @(53.3400 mm, 33.0200 mm): Symbol #FLG01 [PWR_FLAG]
+[simulation_model_issue]: Error reading simulation model from symbol '#PWR01':
+Failed to read simulation model from fields.
+
+    ; Severity: error
+    @(64.7700 mm, 33.0200 mm): Symbol #PWR01 [+5V]
+[simulation_model_issue]: Error reading simulation model from symbol 'SW1':
+Failed to read simulation model from fields.
+
+    ; Severity: error
+    @(97.7900 mm, 40.6400 mm): Symbol SW1 [SW_Push]
+[simulation_model_issue]: Error reading simulation model from symbol '#PWR03':
+Failed to read simulation model from fields.
+
+    ; Severity: error
+    @(82.5500 mm, 36.8300 mm): Symbol #PWR03 [+5V]
+[simulation_model_issue]: Error reading simulation model from symbol '#PWR02':
+Failed to read simulation model from fields.
+
+    ; Severity: error
+    @(144.7800 mm, 39.3700 mm): Symbol #PWR02 [+5V]
+[simulation_model_issue]: Error reading simulation model from symbol 'D1':
+Failed to read simulation model from fields.
+
+    ; Severity: error
+    @(144.7800 mm, 48.2600 mm): Symbol D1 [LED]
+[simulation_model_issue]: Error reading simulation model from symbol 'H5':
+Failed to read simulation model from fields.
+
+    ; Severity: error
+    @(30.4800 mm, 129.5400 mm): Symbol H5 [MountingHole_Pad]
+[simulation_model_issue]: Error reading simulation model from symbol 'H1':
+Failed to read simulation model from fields.
+
+    ; Severity: error
+    @(30.4800 mm, 95.2500 mm): Symbol H1 [MountingHole_Pad]
+[simulation_model_issue]: Error reading simulation model from symbol 'H2':
+Failed to read simulation model from fields.
+
+    ; Severity: error
+    @(58.4200 mm, 95.2500 mm): Symbol H2 [MountingHole_Pad]
+[simulation_model_issue]: Error reading simulation model from symbol 'H6':
+Failed to read simulation model from fields.
+
+    ; Severity: error
+    @(58.4200 mm, 129.5400 mm): Symbol H6 [MountingHole_Pad]
+[simulation_model_issue]: Error reading simulation model from symbol 'H3':
+Failed to read simulation model from fields.
+
+    ; Severity: error
+    @(30.4800 mm, 109.2200 mm): Symbol H3 [MountingHole_Pad]
+[simulation_model_issue]: Error reading simulation model from symbol 'H7':
+Failed to read simulation model from fields.
+
+    ; Severity: error
+    @(44.4500 mm, 120.6500 mm): Symbol H7 [MountingHole_Pad]
+[simulation_model_issue]: Error reading simulation model from symbol 'H4':
+Failed to read simulation model from fields.
+
+    ; Severity: error
+    @(58.4200 mm, 109.2200 mm): Symbol H4 [MountingHole_Pad]
+[simulation_model_issue]: Error reading simulation model from symbol 'J1':
+Failed to read simulation model from fields.
+
+    ; Severity: error
+    @(30.4800 mm, 53.3400 mm): Symbol J1 [RJ45]
+
+ ** ERC messages: 17  Errors 17  Warnings 0

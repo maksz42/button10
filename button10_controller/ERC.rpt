@@ -1,0 +1,16 @@
+ERC report (3/27/2023 11:56:54 PM, Encoding UTF8)
+
+***** Sheet /
+
+***** Sheet /flip_flops/
+[no_connect_connected]: A pin with a “no connection” flag is connected
+    ; Severity: warning
+    @(69.8500 mm, 115.5700 mm): No Connect
+
+***** Sheet /flip_flops/sr_flip_flop/
+
+***** Sheet /flip_flops/channel_1-2/
+
+***** Sheet /flip_flops/channel_1-2/d_flip_flops/
+
+ ** ERC messages: 1  Errors 0  Warnings 1

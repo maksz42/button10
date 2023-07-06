@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "gates")(type "KiCad")(uri "${KIPRJMOD}/gates.kicad_sym")(options "")(descr ""))
+  (lib (name "rj45_multi")(type "KiCad")(uri "${KIPRJMOD}/rj45_multi.kicad_sym")(options "")(descr ""))
+)
